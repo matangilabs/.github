@@ -4,6 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-matangilabs.com-047857?style=for-the-badge)](https://matangilabs.com)
 [![Kortny](https://img.shields.io/badge/Kortny-kortny.dev-047857?style=for-the-badge)](https://kortny.dev)
+[![Kortny GitHub](https://img.shields.io/badge/GitHub-matangilabs%2Fkortny-047857?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matangilabs/kortny)
 [![Stars](https://img.shields.io/github/stars/matangilabs/kortny?style=for-the-badge&color=047857&logo=github&logoColor=white&label=Star%20Kortny)](https://github.com/matangilabs/kortny)
 [![License](https://img.shields.io/github/license/matangilabs/kortny?style=for-the-badge&color=047857)](https://github.com/matangilabs/kortny/blob/main/LICENSE)
 
@@ -21,7 +22,7 @@ Matangi is the goddess of speech, music, knowledge, arts and learning. The name 
 
 ## Kortny
 
-[**Kortny**](https://kortny.dev) is a self-hosted, Slack-native AI coworker.
+[**Kortny**](https://kortny.dev) is a self-hosted, Slack-native AI coworker. The code is open at [matangilabs/kortny](https://github.com/matangilabs/kortny).
 
 Mention it in a thread and it plans, runs real work across the tools your team already uses, executes code in a sandbox, remembers how your team works, and posts the result back to the thread it came from. Underneath sit the surfaces that make it feel less like a bot and more like a colleague: workspace memory, a knowledge graph, ambient channel observation, approvals, and traceable execution.
 
@@ -34,11 +35,11 @@ It is open source and yours to run. Your data stays in your infrastructure, your
 |  | **Kortny** | Hosted AI coworkers | Generic Slack bots |
 |---|:---:|:---:|:---:|
 | Where your data lives | **Your servers** | Vendor cloud | Vendor cloud |
-| Runs on your infrastructure | yes | no | no |
-| Executes real code and ships files | yes | sometimes | no |
-| Long-term memory plus knowledge graph | yes | varies | no |
-| Full audit log: every step and cost | yes | no | partial |
-| Bring-your-own LLM keys, no markup | yes | no | no |
+| Runs on your infrastructure | ✅ | ❌ | ❌ |
+| Executes real code and ships files | ✅ | sometimes | ❌ |
+| Long-term memory plus knowledge graph | ✅ | varies | ❌ |
+| Full audit log: every step and cost | ✅ | ❌ | partial |
+| Bring-your-own LLM keys, no markup | ✅ | ❌ | ❌ |
 | License | **Apache-2.0** | Proprietary | Proprietary |
 
 ### Run it in three commands
