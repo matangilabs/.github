@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="matangi-banner.png" alt="Matangi Labs banner showing an instrument-style radar, traceable AI coworker artifacts, and the line AI coworkers you can run, inspect, and trust." width="100%" />
+<img src="matangi-profile-hero.png" alt="Matangi Labs banner showing an instrument-style radar, traceable AI coworker artifacts, and the line AI coworkers you can run, inspect, and trust." width="100%" />
 
 [![Website](https://img.shields.io/badge/Website-matangilabs.com-047857?style=for-the-badge)](https://matangilabs.com)
 [![Kortny](https://img.shields.io/badge/Kortny-kortny.dev-047857?style=for-the-badge)](https://kortny.dev)
